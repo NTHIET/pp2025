@@ -1,0 +1,1 @@
+ID: DS24, Name: DataScience (DS24), Credits: 50000
